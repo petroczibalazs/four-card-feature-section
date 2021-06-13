@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://petroczibalazs.github.io/four-card-feature-section/)
+- Solution URL: https://www.frontendmentor.io/solutions/fourcardfeaturesection-2kINieIcM
+- Live Site URL: https://petroczibalazs.github.io/four-card-feature-section/
 
 ### Built with
 
